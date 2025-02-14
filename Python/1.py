@@ -1,0 +1,1 @@
+print ("Ju prift e mbara")

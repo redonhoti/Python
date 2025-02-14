@@ -1,0 +1,2 @@
+a = "Përshëndetje" 
+print (a)

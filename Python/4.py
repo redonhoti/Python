@@ -1,0 +1,1 @@
+print ( "Ju priftë e mbara!" )

@@ -1,0 +1,2 @@
+print ( "Përshëndetje" ) 
+print ( 'Përshëndetje' )
